@@ -1,4 +1,4 @@
-# Sasheen Widanagamage - Data Science Portfolio
+# Sasheen Widanagamage - Portfolio
 
 A premium, recruiter-focused portfolio website for **Sasheen Widanagamage**, a BSc (Hons) Information Technology undergraduate specialising in Data Science.
 
