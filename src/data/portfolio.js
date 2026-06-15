@@ -292,7 +292,7 @@ export const journey = [
     title: 'Data Science, BI and Data Engineering Projects',
     organisation: 'GitHub and LinkedIn portfolio',
     period: '2024 - Present',
-    details: 'Developing recruiter-ready projects using R, SQL Server, Power BI, SSIS, SSAS, MongoDB, Python concepts and professional documentation.',
+    details: 'Developing projects using R, SQL Server, Power BI, SSIS, SSAS, MongoDB, Python concepts and professional documentation.',
     tags: ['R', 'Power BI', 'SQL Server', 'DWBI']
   },
   {
