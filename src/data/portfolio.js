@@ -11,7 +11,7 @@ export const profile = {
   email: 'sasheenwidanagamage@gmail.com',
   github: 'https://github.com/sasheen-widanagamage',
   linkedin: 'https://lk.linkedin.com/in/sasheen-widanagamage-6809a3341',
-  resume: '/resume.pdf'
+  resume: '/sasheen_resume.pdf'
 };
 
 export const navLinks = [
